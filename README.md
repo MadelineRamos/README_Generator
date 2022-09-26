@@ -18,4 +18,4 @@ This application is used to generate a README file using the command line. When 
 
 ---
 
-Add image here
+![README Demo](https://user-images.githubusercontent.com/108437661/192172473-569eeff2-420b-4b02-a9d9-680d864fbd26.png)
