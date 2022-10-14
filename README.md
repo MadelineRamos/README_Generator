@@ -12,7 +12,7 @@ This application is used to generate a README file using the command line. When 
 
 - JavaScript
 - Inquirer
-- None.js
+- Node.js
 
 ## Snapshot of Application
 
